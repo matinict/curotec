@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<view xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Config/etc/view.xsd">
+
+  <image id="product_page_main_image" type="image">
+                <width>900</width>
+                <height>900</height>
+            </image>
+            <image id="product_page_main_image_default" type="image">
+                <width>900</width>
+                <height>900</height>
+            </image>
+    <media/>
+</view>
