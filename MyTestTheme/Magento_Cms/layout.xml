@@ -1,0 +1,9 @@
+<referenceContainer name="footer">
+    <block class="Magento\Store\Block\Switcher" name="store_switcher" as="store_switcher" after="footer_links" template="switch/stores.phtml"/>
+
+     <block class="Magento\Cms\Block\Block" name="test">
+        <arguments>
+            <argument name="block_id" xsi:type="string">promo</argument>
+        </arguments>
+    </block>
+</referenceContainer>
